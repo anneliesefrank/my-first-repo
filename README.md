@@ -1,30 +1,25 @@
-# This is a large heading
+# Ellie Aizenberg
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Vilnius, which is the capital of the Great Duchess of Lithuania. Interestingly enough, it is still a part of European Union.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Master and the Margaret* by M.Bulgakov
+- *Love Executioner* by I.Yalom
+- *451 Fahrenheit* by R.Bradbury
 
-```
-This is
-a block
-of code
-```
+### TV
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is a list of my favourite TV series:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Friends
+2. How I Met Your Mother
+3. The Big Bang Theory
 
-nano README.md
+### Contact 
+
+The best way to get in touch with me is ([on Telegram](https://t.me/anneliesefrank))
