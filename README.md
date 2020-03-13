@@ -22,4 +22,4 @@ Here is a list of my favourite TV series:
 
 ### Contact 
 
-The best way to get in touch with me is ([on Telegram](https://t.me/anneliesefrank))
+The best way to get in touch with me is [on Telegram](https://t.me/anneliesefrank)
