@@ -1,0 +1,17 @@
+commit 72d9bf2c5c58e24dc4df5f934d623e6560a54dc0
+Author: anneliesefrank <vetalennon@gmail.com>
+Date:   Fri Mar 13 13:16:33 2020 +0200
+
+    added gitignore
+
+commit 86ae0f0b7d688c983857fd92076e3b864bed6569
+Author: anneliesefrank <vetalennon@gmail.com>
+Date:   Fri Mar 13 12:54:57 2020 +0200
+
+    added two files
+
+commit 77a05c203265dcda1da6abe656e42176da330328
+Author: anneliesefrank <vetalennon@gmail.com>
+Date:   Fri Mar 13 12:43:55 2020 +0200
+
+    added readme.txt
